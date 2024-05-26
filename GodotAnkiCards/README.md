@@ -1,0 +1,1 @@
+There are two types apkg files here. There is a master deck, and sub-decks. I will be commiting these as I am comfortable with the clozes. I am actively working on them.
